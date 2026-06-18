@@ -8,3 +8,4 @@
 8. practice well
 9. i learned linux
 10. now practicing git
+11. new course
