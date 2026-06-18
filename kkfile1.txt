@@ -6,3 +6,5 @@
 6. good morning
 7. very well 
 8. practice well
+9. i learned linux
+10. now practicing git
